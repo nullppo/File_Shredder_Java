@@ -1,5 +1,7 @@
 # shredder
+<div align="center">
 <img width="355" height="289" alt="image" src="https://github.com/user-attachments/assets/ae8e4eeb-0dcf-450b-83d7-ff5846d5a575" />
+</div>
 
 > Secure file deletion utility - overwrites file contents with random data before removing it from disk.
 
