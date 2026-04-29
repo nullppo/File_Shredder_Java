@@ -24,7 +24,7 @@ java Main
 
 On SSDs, wear leveling may prevent true overwrite of original sectors.
 Journaling filesystems (NTFS, ext4, btrfs) may retain independent copies.
-For guaranteed erasure on SSD — use full-disk encryption from day one,
+For guaranteed erasure on SSD - use full-disk encryption from day one,
 then wiping the encryption key is sufficient.
 
 ## Built with
